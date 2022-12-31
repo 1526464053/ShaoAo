@@ -1,0 +1,43 @@
+/* .clj_jump{
+    transition: transform 2s;
+}
+
+.clj_jump i:hover{
+    transform: rotate(180deg);
+} */
+
+/* 关于 - 代码 */
+
+/* 标签方框 */
+.fk{
+    margin-left: 10px;
+    background-color: #f2f2f2;
+    width: 40px;
+    padding: 8px 15px;
+    font-size: 14px;
+    border-radius: 10%;
+    transition: .25s;
+    
+}
+
+.fk:hover{
+    box-shadow: 0 2px 4px rgba(26, 24, 24, 0.12), 0 0 6px rgba(24, 23, 23, 0.1)
+}
+
+
+/* 内容 */
+.gynr{
+    font-size: 14px;
+}
+
+/* 横线 */
+.hx{
+    width: 50px;
+    height: 15px;
+    color:darkcyan;
+}
+
+/* 内容的日期 */
+.nr_rq{
+    float: right;
+}
