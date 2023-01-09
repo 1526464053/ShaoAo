@@ -1,0 +1,16 @@
+{
+  "id": "3855923",
+  "name": "电脑秃瓢",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "21941432",
+      "name": "台式电脑",
+      "font_class": "zu10",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
